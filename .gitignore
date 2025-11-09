@@ -4,3 +4,7 @@
 # Junk Files
 .DS_Store
 .ipynb_checkpoints
+
+lahman-baseball-database.zip
+kaggle.json
+lahman_1871-2024_csv/
