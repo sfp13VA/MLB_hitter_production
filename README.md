@@ -31,7 +31,7 @@ We created some lag features to improve our model performance.  Lag features hel
 
 We created a baseline Linear Regression model and then an XGBoost, and the tuned XGBoost performed best with a 0.068 mean absolute error.
 
-The top 5 players qwith the highest predicted OPS in 2025 are Aaron Judge, Shohei Ohtani, Yordan Alvarez, Juan Soto, and Kyle Tucker.
+The top 5 players with the highest predicted OPS in 2025 are Aaron Judge, Shohei Ohtani, Yordan Alvarez, Juan Soto, and Kyle Tucker.
 
 <img width="864" height="576" alt="top 5 players" src="https://github.com/user-attachments/assets/eada1160-7d52-455e-8b13-fccf16fef19a" />
 
