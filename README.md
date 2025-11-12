@@ -16,7 +16,8 @@ We calculated OPS and and defined our target, OPS_next and looked at feature cor
 
 Several offensive stats correlate with OPS, but age has an outsize impact.
 
-<img width="720" height="576" alt="correlation" src="https://github.com/user-attachments/assets/75dcf394-332e-460f-a242-d444a68f0e1e" />
+<img width="720" height="576" alt="correlation" src="https://github.com/user-attachments/assets/fbf634f6-eeb9-4267-9549-4089bd75ae58" />
+
 
 OPS peaks around age 28-30
 
