@@ -19,7 +19,8 @@ Several offensive stats correlate with OPS, but age has an outsize impact.
 <img width="720" height="576" alt="correlation" src="https://github.com/user-attachments/assets/fbf634f6-eeb9-4267-9549-4089bd75ae58" />
 
 
-OPS peaks around age 28-30
+
+OPS peaks around age 28-30.
 
 <img width="720" height="432" alt="agingcurve" src="https://github.com/user-attachments/assets/3fd4fafd-7867-4573-ace1-ea033d7f0cdd" />
 
